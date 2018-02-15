@@ -1,0 +1,10 @@
+<div> hello world </div>
+<%= @hello %>
+<%= @poop2.name %>
+
+<%= @list %>
+
+<%= for post <- @list do %>
+<div> <%= post %> </div>
+<% end %>
+<%= text_input :user, :name, value: "This is a prepopulated value" %>
