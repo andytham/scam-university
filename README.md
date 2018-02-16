@@ -54,3 +54,5 @@ Every update to Elixir/Phoenix (mostly Phoenix) breaks stuff!
 Elixir is supposed to be extremely fast and modern. Phoenix is supposed to be the framework, and was very rails like... at first. However, if you use their new commands that they insist on you using to generate your backend, it becomes very different as if they tried very hard to be different from Rails. The file structure just seems to go out the window, and every tutorial and stack overflow post seems to reference the older version.
 **************************
 Elixir and Phoenix are great if you are a coding veteran, understand code efficiency (Big O perhaps) and want a super fast language and framework that can deliver your content quickly. It's definitely not a language a beginner can handle, and especially with the somewhat confusing documentation, and not as widespread use and popularity, you will most definitely run into problems may or may not be solvable to you.
+
+The real learning experience was that don't learn new languages until you're good at one
