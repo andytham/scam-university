@@ -1,36 +1,40 @@
 <div class="jumbotron">
-  <h2><%= gettext "Welcome to %{name}", name: "Phoenix!" %></h2>
-  <p class="lead">A productive web framework that<br />does not compromise speed and maintainability.</p>
+  <h2><%= gettext "Welcome to %{name}", name: "Scam Academy!" %></h2>
+  <p class="lead">We'll take your money AND your children</p>
 </div>
 
 <div class="row marketing">
   <div class="col-lg-6">
-    <h4>Resources</h4>
+    <h4>Ready to Lose Your Money?</h4>
     <ul>
       <li>
-        <a href="http://phoenixframework.org/docs/overview">Guides</a>
+         Over 0 accreditted teachers ready to teach you garbage!
       </li>
       <li>
-        <a href="https://hexdocs.pm/phoenix">Docs</a>
+        We're practically robbing you blind!
       </li>
       <li>
-        <a href="https://github.com/phoenixframework/phoenix">Source</a>
+        No refunds, ever!
       </li>
     </ul>
   </div>
 
   <div class="col-lg-6">
-    <h4>Help</h4>
+    <h4>Not Convinced?</h4>
     <ul>
       <li>
-        <a href="http://groups.google.com/group/phoenix-talk">Mailing list</a>
+         Too bad! We already stold all your personal information
       </li>
       <li>
-        <a href="http://webchat.freenode.net/?channels=elixir-lang">#elixir-lang on freenode IRC</a>
+        And we're running a bitcoin miner
       </li>
       <li>
-        <a href="https://twitter.com/elixirphoenix">@elixirphoenix</a>
+        Hahahaha
       </li>
     </ul>
+  </div>
+  <div class="col-lg-6">
+    <h4><a href="/courses" >Click Here to view courses</a></h4>
+
   </div>
 </div>

@@ -18,6 +18,7 @@ defmodule UniversityApp.Router do
 
     get "/", PageController, :index
     get "/home", HomeController, :index
+      resources "/courses", CourseController
   end
 
   # Other scopes may use custom stacks.
