@@ -1,4 +1,4 @@
-# Scam Academy
+# Scam Academy (Elixir and Phoenix)
 
 To start your Phoenix app:
 
