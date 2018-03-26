@@ -47,6 +47,8 @@ mix ecto.create && mix ecto.migrate - database wrapper and migrations
 cd assets and npm install
 mix phoenix.server - to launch server
 
+(basic crud)
+mix phoenix.gen.html Todo todos title:string description:string completed:boolean
 **************************
 Problems: tutorials outdated!
 Every update to Elixir/Phoenix (mostly Phoenix) breaks stuff!
